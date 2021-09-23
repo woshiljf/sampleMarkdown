@@ -1,0 +1,18 @@
+.markdown_container{
+    display: flex;
+}
+
+.edit {
+    width: 40%;
+    height: 100vh;
+    overflow: scroll;
+}
+#write {
+    padding: 0 !important;
+}
+.show {
+    width: 60%;
+    height: 100vh;
+    border: 1px solid #ccc;
+    overflow: scroll;
+}
